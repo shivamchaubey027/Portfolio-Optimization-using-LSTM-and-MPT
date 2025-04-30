@@ -76,13 +76,8 @@ Initially, I was fascinated by how investors like Warren Buffet build portfolios
    ```bash
    git clone https://github.com/yourusername/PortfolioOptimization.git
    cd PortfolioOptimization
-2. **Install the required libraries**
 
-
-```bash
-pip install -r requirements.txt
-```
-3. **Run the notebook**
+2. **Run the notebook**
 
 Open PortfolioOptimizationFinal.ipynb in Jupyter Notebook or VS Code.
 
